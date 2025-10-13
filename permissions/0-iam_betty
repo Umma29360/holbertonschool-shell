@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon root betty
+su -l betty
