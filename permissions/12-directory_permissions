@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir chown 751
+chown 751 my_dir
